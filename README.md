@@ -4,5 +4,6 @@
 
 Да прибудет с вами Котейка-воин:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-ИИИИ
-![Image of Yaktocat](https://octodex.github.com/images/hula_loop_octodex03.gif)
+
+
+(https://octodex.github.com/images/hula_loop_octodex03.gif)
