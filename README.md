@@ -6,4 +6,8 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-(https://octodex.github.com/images/hula_loop_octodex03.gif)
+![Image of HulaLoop](https://octodex.github.com/images/hula_loop_octodex03.gif)
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
